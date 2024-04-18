@@ -1,0 +1,10 @@
+{
+  "name": "TEST",
+  "description": "TEST description",
+  "marketplace": "getgems.io",
+  "social_links": [
+    "https://t.me/toncoin"
+  ],
+  "image": "https://dedust.io/icons/favicons/ton-connect.png?raw=true",
+  "cover_image": "https://dedust.io/icons/favicons/ton-connect.png?raw=true"
+}
